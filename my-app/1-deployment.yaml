@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: paddypillai/nginx:v0.1.1
+          image: paddypillai/nginx:v0.1.2
           ports:
             - containerPort: 80
